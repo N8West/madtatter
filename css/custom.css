@@ -25,17 +25,17 @@ img.shoppic {
 }
 
 .jumbotron {
-	height: 55rem;
+	height: 60rem;
 	background: #000 url('../img/wallHero.jpg') top center no-repeat;
 	background-size: cover;
 	padding: 2px;
 }
 
 img.madlogo {
-	height : 45rem;
+	height : 50rem;
 	width: auto;
 	display: block;
-	margin: 40px auto;
+	margin: 45px auto;
 }
 
 
