@@ -9,6 +9,21 @@ p {
 	margin-bottom: 0;
 }
 
+.container {
+	margin-top: 20px;
+}
+
+h1 {
+	text-align: center;
+}
+
+img.shoppic {
+	display: block;
+	margin: 10px auto;
+    width: 20em;
+
+}
+
 .jumbotron {
 	height: 55rem;
 	background: #000 url('../img/wallHero.jpg') top center no-repeat;
@@ -23,9 +38,7 @@ img.madlogo {
 	margin: 40px auto;
 }
 
- #artists, #reviews {
-	background-color: #EEEECF;
-}
+
 
 @media only screen and (max-width: 576px) {
 
@@ -55,9 +68,18 @@ img.madlogo {
 	max-width: 1000px;
 }
 
+.panel-group {
+	max-width: 700px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
 .panel-heading {
 	padding: 10px auto;
 }
+
+
 
 #artists {
 	padding-top: 30px;
