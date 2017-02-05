@@ -70,7 +70,7 @@ img.madlogo {
 
 .panel-group {
 	max-width: 700px;
-	margin: 0 auto;
+	margin: 0px auto;
 	text-align: center;
 }
 
@@ -145,4 +145,5 @@ img.madlogo {
 a.totop {
 	float: right;
 	display: inline;
+	padding: 40px 20px 20px 20px;
 }
